@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880698298023",
+    "firebase_url": "https://fcm-retrofit.firebaseio.com",
+    "project_id": "fcm-retrofit",
+    "storage_bucket": "fcm-retrofit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880698298023:android:ac92b1f2bd0c8445",
+        "android_client_info": {
+          "package_name": "net.simplifiedlearning.retrofitexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880698298023-5qnftenl9s341ieuh9jrsntiueatntnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.simplifiedlearning.retrofitexample",
+            "certificate_hash": "a536113f04bdf54d633047181d7053fa9c7754ce"
+          }
+        },
+        {
+          "client_id": "880698298023-5fjapo79qjr8kpd3cqt5kcfjmff24kgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6Mmzw2ihVva4hV21BBh-aHIsdY_RzW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880698298023-5fjapo79qjr8kpd3cqt5kcfjmff24kgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
